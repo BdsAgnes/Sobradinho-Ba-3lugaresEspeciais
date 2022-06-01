@@ -1,0 +1,101 @@
+
+div{
+    margin: 0 auto;
+    width: 960px;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    line-height: 1.6;
+    background: #fff1d6;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+article{
+    border-color: #ccc #999 #999 #ccc;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 20px;
+    margin-left: 30px;
+
+}
+article h2{
+    border-bottom: 1px dashed #7e9f19;
+    margin: 0;
+}
+article a{
+    color: #2c88a7;
+    font-weight: bold;
+}
+h1 a{
+    color: #1b1818;
+    text-decoration: none;
+    
+}
+h1 a:hover{
+    background-color: #000000;
+    color: #fff1d6;
+    border-radius: 5px;
+    font-weight: bold;
+    box-sizing: border-box;
+
+}
+header h1{
+    margin: 50px;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    font-family: anton;
+    font-size: 2.5rem;
+    height: 40px;
+    
+
+
+}
+
+nav li a{
+
+    
+    
+    border: 0;
+   
+    
+    
+    font-size: 18px;
+    
+}
+
+article img{
+    border: 1px solid #dbe2c4;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 150px;
+    height:150px;
+}
+.clear{
+    clear: both;
+}
+.sidenote{
+    background-color: #fffbe4;
+    border: 1px solid #c9bc8f;
+    padding: 10px;
+    float: right;
+    width: 240px;
+}
+.sidenote h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+.sidenote ol{
+    font-size: 12px;
+
+}
+.place{
+    float: left;
+    width: 660px;
+}
+.rodapé{
+    float: left;
+    text-align: center;
+    margin:  30px 10px 30px 30px;
+}
